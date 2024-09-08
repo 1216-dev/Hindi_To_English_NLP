@@ -18,7 +18,12 @@ This project aims to develop a state-of-the-art machine translation system using
 
 ## Introduction
 In this project, we developed a machine translation model capable of translating English text into Hindi using deep learning techniques. The model uses an Encoder-Decoder architecture with LSTM networks to learn the mappings between English and Hindi sentence pairs.
+## Image
+Below is an image illustrating the model architecture:
 
+![Model Architecture](https://github.com/1216-dev/Hindi_To_English_NLP/blob/main/file.png)
+
+Feel free to modify this README as per your project specifics!
 ## Project Structure
 
 ## Methodology
